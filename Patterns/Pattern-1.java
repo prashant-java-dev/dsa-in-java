@@ -1,3 +1,4 @@
+package Patterns;
 class Pattern_1 {
     public static void pattern1(int n){
     //outter loop
